@@ -104,8 +104,6 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
       <br>Material Ui
     </td>
-  </tr>
- <tr>
       <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       <br>Postman
@@ -114,24 +112,19 @@
        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       <br>Figma
     </td>
-    </td>
       <td align="center" width="96">
        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
       <br>SQLite
     </td>
-    </td>
+  </tr>
+ <tr>
       <td align="center" width="96">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       <br>C
     </td>
-    </td>
-    </td>
-    </td>
       <td align="center" width="96">
        <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
       <br>JWT
-    </td>
-    </td>
     </td>
  </tr>
 </table>
